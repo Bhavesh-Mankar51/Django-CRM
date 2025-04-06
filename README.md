@@ -1,4 +1,4 @@
-# 🌐 Customer Record Management System 
+# 🌐 Customer Record Management Platform
 
 A simple Django-based web application to manage customer records with full authentication and CRUD operations.
 
